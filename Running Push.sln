@@ -1,6 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
@@ -33,6 +35,41 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+=======
+>>>>>>> origin/Jason's-Worker
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Running Push.CSharp.Plugins", "Running Push.CSharp.Plugins.csproj", "{AE661AD4-15F3-51C8-A654-5389B405C61F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Running Push.CSharp", "Running Push.CSharp.csproj", "{AFD36F9C-456A-BF52-F721-81DE08215D57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Running Push.CSharp.Editor", "Running Push.CSharp.Editor.csproj", "{F796555F-43EB-8CF9-9ECF-46641A857AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE661AD4-15F3-51C8-A654-5389B405C61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE661AD4-15F3-51C8-A654-5389B405C61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE661AD4-15F3-51C8-A654-5389B405C61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE661AD4-15F3-51C8-A654-5389B405C61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD36F9C-456A-BF52-F721-81DE08215D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD36F9C-456A-BF52-F721-81DE08215D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD36F9C-456A-BF52-F721-81DE08215D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD36F9C-456A-BF52-F721-81DE08215D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F796555F-43EB-8CF9-9ECF-46641A857AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F796555F-43EB-8CF9-9ECF-46641A857AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F796555F-43EB-8CF9-9ECF-46641A857AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F796555F-43EB-8CF9-9ECF-46641A857AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+<<<<<<< HEAD
 =======
 >>>>>>> refs/remotes/origin/master
 ﻿
@@ -71,3 +108,6 @@ EndGlobal
 =======
 >>>>>>> refs/remotes/origin/Jason's-Worker
 >>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> refs/remotes/origin/Jason's-Worker
+>>>>>>> origin/Jason's-Worker
