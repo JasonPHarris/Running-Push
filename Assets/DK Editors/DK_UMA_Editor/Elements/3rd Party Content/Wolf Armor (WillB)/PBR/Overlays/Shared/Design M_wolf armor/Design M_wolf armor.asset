@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e813a981abe62b47afeb292f76b446f, type: 3}
+  m_Name: Design M_wolf armor
+  m_EditorClassIdentifier: 
+  overlayName: 4d5f776f6c662061726d6f7244657369676e
+  color:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  rect:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  textureList:
+  - {fileID: 2800000, guid: 918fb882229e2d541a0818a8d3993150, type: 3}
+  - {fileID: 2800000, guid: 08382809597c5bc42821f943368337b8, type: 3}
+  - {fileID: 2800000, guid: 76352e7131950db4bb4892c0049eabf2, type: 3}
+  - {fileID: 2800000, guid: bcad721153eab42428b311c65658ee6f, type: 3}
+  channelMask: []
+  channelAdditiveMask: []
+  _UMA: {fileID: 11400000, guid: 533e12c0382293b49972ed2c76754f8f, type: 2}
+  tags: []
+  Active: 0
+  Elem: 0
+  Place: {fileID: 0}
+  Race: []
+  Gender: 
+  OverlayType: 
+  WearWeight: 
+  Default: 0
+  LinkedToSlot: []
+  ColorPresets: []
